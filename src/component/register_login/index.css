@@ -1,0 +1,45 @@
+.style-red{
+    color: #c81623;
+}
+/* 注册登入 */
+.shortcut{
+    height: 52px;
+    background-color: #f1f1f1;
+    line-height: 52px;
+}
+.shortcut li {
+    float: left;
+}
+/* 版心**/
+.edition_heart {
+    width: 1200px;
+    margin: 0 auto;
+}
+/*左浮动**/
+.float_left{
+    float: left;
+}
+.illustrate{
+    margin-left: 10px;
+    font-size: 18px
+}
+a:hover{
+    color: #c81623;
+}
+/*右浮动**/
+.float_right{
+    float: right;
+    position:relative;
+}
+.logo {
+    background: url(./img/icomoon.png) no-repeat;   
+    width: 52px;
+    height: 52px;
+    position: absolute;
+    background-size: 52px 52px;
+}
+.title{
+    margin-left: -80px;
+    margin-top: 20px;
+    font-size: 18px;
+}
